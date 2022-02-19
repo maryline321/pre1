@@ -1,1 +1,1 @@
-# ALX first project
+# ALX Git and Github Introduction
